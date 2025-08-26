@@ -116,14 +116,4 @@ Computer Hit Miss Board
 7 0 0 0 0 0 0 0 0 0 0 
 8 0 0 0 0 0 0 0 0 0 0 
 9 0 0 0 0 0 0 0 0 0 0 
-Enter Shot Coordinates(0-9) "row col":
-
-battleship-java/
-  ├─ src/
-  │   ├─ Battleship.java
-  │   ├─ Board.java
-  │   └─ Ship.java
-  ├─ README.md
-  └─ .gitignore
-
-
+Enter Shot Coordinates(0-9) "row col":**USER INPUT**
