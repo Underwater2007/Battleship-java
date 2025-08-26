@@ -117,3 +117,8 @@ Computer Hit Miss Board
 8 0 0 0 0 0 0 0 0 0 0 
 9 0 0 0 0 0 0 0 0 0 0 
 Enter Shot Coordinates(0-9) "row col":**USER INPUT**
+
+## License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
+
